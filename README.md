@@ -1,6 +1,16 @@
-### olá!eu sou o viny mark`s🖥️🌐
-## Bem vindo ao meu perfil GitHub 💻👋
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📢Olá!+sou+Vinícius+Marques;Seja+bem+vindos+aqui😃)](https://git.io/typing-svg)
+
+
+
+
+
+
+Meu nome é Vinícius e eu gosto de ☕&🍣
+Sou brasileiro 🇧🇷,Teresópolis -Rj
+🎓Cursando desenvolvimento full-stack, (Estácio.sá) & (ONE Allura), ciência de dados e outros tópicos avançados de ciência da computação
+
+📈A seguir estão as estatísticas de alguns repositórios que possuo e nos quais colaborei, incluindo minhas contribuições pessoais:
 
 ## Contatos:
 
@@ -9,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only">
