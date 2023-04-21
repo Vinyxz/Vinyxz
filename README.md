@@ -28,3 +28,8 @@
 <br/>
 <h3>“O controle às vezes pode ser uma ilusão. Mas às vezes você precisa de ilusão para ganhar controle.” ― Sr. Robô</h3>
 <br/>
+</p>
+<h2 align="left"> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" largura = 32px> </h2><br/>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,bootstrap,c,cpp,php,js,html,css,mysql,react" /></a></p>
