@@ -23,6 +23,18 @@
 <Img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only">
 <Img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg">
 <Img src="https://camo.githubusercontent.com/6bc4621f1ab5421afdaed2176d2dfd2b0d1865026ba479ad5cd0d46f3832b131/68747470733a2f2f692e6962622e636f2f51506d487338722f70726f6a656374732e676966">
+
+
+</p>
+<h2 align="left"><img src ="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif"></h2>
+<br/>
+
+
+
+
+
+
+
 <br/>
 <h3>“O controle às vezes pode ser uma ilusão. Mas às vezes você precisa de ilusão para ganhar controle.” ― Sr. Robô</h3>
 <br/>
