@@ -18,9 +18,7 @@
 <Img src="https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667">
 ## Contatos:
 
-[<a href="https://www.linkedin.com/in/vinicius-marques-6b181b75" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>]
-
+[<a href="https://www.linkedin.com/in/vinicius-marques-6b181b75" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>]
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
 <Img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only">
 <Img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg">
@@ -35,3 +33,8 @@
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,bootstrap,c,cpp,php,js,html,css,mysql,react" /></a></p><br/><br/>
+</p>
+<h2 align="left"><img src ="https://www.lambdatest.com/resources/images/news24.gif" width = 100%> </h2>
+<br/>
+
+
