@@ -7,7 +7,7 @@
 
 
 <p>Meu nome é Vinícius e eu gosto de ☕&🍣
-Sou brasileiro 🇧🇷,Teresópolis -Rj<Br></p>
+Sou brasileiro 🇧🇷,Teresópolis -Rj</p>
 <P>🎓Cursando desenvolvimento full-stack, (Estácio.sá) & (ONE Allura), ciência de dados e outros tópicos avançados de ciência da computação</p>
 <h1><Img src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"></h1>
 📈A seguir estão as estatísticas de alguns repositórios que possuo e nos quais colaborei, incluindo minhas contribuições pessoais:
