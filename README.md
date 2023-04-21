@@ -11,7 +11,7 @@ Sou brasileiro 🇧🇷,Teresópolis -Rj
 🎓Cursando desenvolvimento full-stack, (Estácio.sá) & (ONE Allura), ciência de dados e outros tópicos avançados de ciência da computação
 
 📈A seguir estão as estatísticas de alguns repositórios que possuo e nos quais colaborei, incluindo minhas contribuições pessoais:
-
+<Img src="https://camo.githubusercontent.com/7c3ffa457607203c78ba3a71abcb662043e11cdcca9de7092358aba9636b1566/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f72626974726f6e2670617573653d3130303026636f6c6f723d3237463736412677696474683d333630266c696e65733d2545322539362539314125453225393625393143254532253936253931432545322539362539314525453225393625393153254532253936253931532545322539362539312b2545322539362539314725453225393625393141254532253936253931492545322539362539314e2545322539362539314525453225393625393144254532253936253931">
 ## Contatos:
 
 [<a href="https://www.linkedin.com/in/vinicius-marques-6b181b75" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>]
@@ -19,3 +19,10 @@ Sou brasileiro 🇧🇷,Teresópolis -Rj
 
 
 <Img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only">
+
+
+
+<Img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg">
+
+
+<Img src="https://camo.githubusercontent.com/6bc4621f1ab5421afdaed2176d2dfd2b0d1865026ba479ad5cd0d46f3832b131/68747470733a2f2f692e6962622e636f2f51506d487338722f70726f6a656374732e676966">
