@@ -33,4 +33,4 @@
 </p>
 <h2 align="left"><img src ="https://www.lambdatest.com/resources/images/news24.gif" width = 100%> </h2>
 <br/>
-  <video src="https://www.youtube.com/shorts/8656o8wEZJM"></video>
+ 
