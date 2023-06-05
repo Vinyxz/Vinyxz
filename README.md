@@ -31,6 +31,7 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,bootstrap,c,cpp,php,js,html,css,mysql,react" /></a></p><br/><br/>
 </p>
-<h2 align="left"><img src ="https://www.lambdatest.com/resources/images/news24.gif" width = 100%> </h2>
+<h2 align="center"></> <img src ="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"width="100%"> </h2>
 <br/>
  
+
