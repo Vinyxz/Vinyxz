@@ -4,7 +4,7 @@
 <P>Sou brasileiro 🇧🇷,Teresópolis -Rj</p>
 <P>🎓Cursando Desenvolvimento Full-Stack (Estácio) e Análise e Desenvolvimento de Sistemas (ONE NEXT / Santander Coder), com foco em Front-End e Back-End. Tenho experiência com Node.js, JavaScript, Docker, Docker Compose, Nginx, e bancos de dados como MySQL e PostgreSQL, utilizando ferramentas como DBeaver. Participei de projetos com integração entre APIs e bancos relacionais, incluindo configuração de containers e redes.</p>
 
-<img src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+![Gif animado](https://i.imgur.com/dBaSKWF.gif)
 
 📈A seguir estão as estatísticas de alguns repositórios que possuo e nos quais colaborei, incluindo minhas contribuições pessoais:
 <Img src="https://camo.githubusercontent.com/7c3ffa457607203c78ba3a71abcb662043e11cdcca9de7092358aba9636b1566/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f72626974726f6e2670617573653d3130303026636f6c6f723d3237463736412677696474683d333630266c696e65733d2545322539362539314125453225393625393143254532253936253931432545322539362539314525453225393625393153254532253936253931532545322539362539312b2545322539362539314725453225393625393141254532253936253931492545322539362539314e2545322539362539314525453225393625393144254532253936253931">
