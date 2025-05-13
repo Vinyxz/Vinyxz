@@ -14,10 +14,11 @@
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" alt="Nginx" title="Nginx"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js" title="Node.js"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/HEAD/icons/dbeaver.png" width="40" alt="DBeaver" title="DBeaver"/>
+  <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/devel/docs/media/dbeaver.png" width="40" alt="DBeaver" title="DBeaver"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL" title="MySQL"/>
 </p>
+
 ## Contatos:
 
 [<a href="https://www.linkedin.com/in/vinicius-marques-6b181b75" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>]
