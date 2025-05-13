@@ -28,7 +28,9 @@ Tenho foco em **Front-End** e **Back-End**, com experiência prática nas seguin
 
 ## 📊 Estatísticas GitHub e Colaborações
 
-![Snake animation](https://github.com/vinymrqs/vinymrqs/blob/output/github-contribution-grid-snake.svg)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=vinymrqs&show_icons=true&theme=tokyonight)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinymrqs&layout=compact&theme=tokyonight)
 
 <img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
