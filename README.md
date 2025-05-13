@@ -28,9 +28,11 @@ Tenho foco em **Front-End** e **Back-End**, com experiência prática nas seguin
 
 ## 📊 Estatísticas GitHub e Colaborações
 
-<Img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only">
-<Img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg">
-<Img src="https://camo.githubusercontent.com/6bc4621f1ab5421afdaed2176d2dfd2b0d1865026ba479ad5cd0d46f3832b131/68747470733a2f2f692e6962622e636f2f51506d487338722f70726f6a656374732e676966">
+<img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg" alt="Linguagens usadas" />
+
+<img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://i.ibb.co/QPmHs8r/projetos.gif" alt="Projetos GIF" />
 
 ---
 
