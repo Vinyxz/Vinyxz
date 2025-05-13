@@ -28,7 +28,13 @@ Tenho foco em **Front-End** e **Back-End**, com experiência prática nas seguin
 
 ## 📊 Estatísticas GitHub e Colaborações
 
-<img src="https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg" alt="Linguagens usadas" />
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinyxz&show_icons=true&theme=github_dark" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinyxz&layout=compact&theme=github_dark" alt="Linguagens Mais Usadas" />
+</p>
+
 
 <img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
