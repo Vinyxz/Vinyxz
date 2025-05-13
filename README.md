@@ -9,8 +9,27 @@
 📈A seguir estão as estatísticas de alguns repositórios que possuo e nos quais colaborei, incluindo minhas contribuições pessoais:
 <img src="https://i.ibb.co/Vvn7t4z/interests.gif" width="360" alt="GIF de interesses">
 
-![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+<!-- Docker -->
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" alt="Docker"/>
+
+<!-- Nginx -->
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" alt="Nginx"/>
+
+<!-- Node.js -->
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js"/>
+
+<!-- JavaScript -->
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" alt="JavaScript"/>
+
+<!-- DBeaver (sem ícone oficial vetorizado, alternativa do GitHub) -->
+<img src="https://raw.githubusercontent.com/dbeaver/dbeaver/HEAD/icons/dbeaver.png" width="40" alt="DBeaver"/>
+
+<!-- PostgreSQL -->
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL"/>
+
+<!-- MySQL -->
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL"/>
+
 
 ## Contatos:
 
