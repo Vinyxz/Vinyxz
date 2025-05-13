@@ -7,30 +7,17 @@
 ![Gif animado](https://i.imgur.com/dBaSKWF.gif)
 
 📈A seguir estão as estatísticas de alguns repositórios que possuo e nos quais colaborei, incluindo minhas contribuições pessoais:
-<img src="https://i.ibb.co/Vvn7t4z/interests.gif" width="360" alt="GIF de interesses">
+<h3>Tecnologias que utilizo:</h3>
 
-<!-- Docker -->
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" alt="Docker"/>
-
-<!-- Nginx -->
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" alt="Nginx"/>
-
-<!-- Node.js -->
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js"/>
-
-<!-- JavaScript -->
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" alt="JavaScript"/>
-
-<!-- DBeaver (sem ícone oficial vetorizado, alternativa do GitHub) -->
-<img src="https://raw.githubusercontent.com/dbeaver/dbeaver/HEAD/icons/dbeaver.png" width="40" alt="DBeaver"/>
-
-<!-- PostgreSQL -->
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL"/>
-
-<!-- MySQL -->
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL"/>
-
-
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" alt="Docker" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" alt="Nginx" title="Nginx"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js" title="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/HEAD/icons/dbeaver.png" width="40" alt="DBeaver" title="DBeaver"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL" title="MySQL"/>
+</p>
 ## Contatos:
 
 [<a href="https://www.linkedin.com/in/vinicius-marques-6b181b75" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>]
