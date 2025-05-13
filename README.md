@@ -41,7 +41,6 @@ Tenho foco em **Front-End** e **Back-End**, com experiência prática nas seguin
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" alt="Nginx" title="Nginx"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js" title="Node.js"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/devel/docs/media/dbeaver.png" width="40" alt="DBeaver" title="DBeaver"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL" title="MySQL"/>
 </p>
