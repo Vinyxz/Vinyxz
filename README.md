@@ -28,12 +28,7 @@ Tenho foco em **Front-End** e **Back-End**, com experiência prática nas seguin
 
 ## 📊 Estatísticas GitHub e Colaborações
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinymrqs&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinymrqs&layout=compact&theme=github_dark" alt="Top Langs" />
-</p>
+https://github-readme-stats.vercel.app/api?username=vinymrqs
 
 <img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
