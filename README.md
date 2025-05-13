@@ -28,10 +28,7 @@ Tenho foco em **Front-End** e **Back-End**, com experiência prática nas seguin
 
 ## 📊 Estatísticas GitHub e Colaborações
 
-![Vinícius Marques GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinymrqs&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinymrqs&layout=compact&theme=dracula)
-
+![Snake animation](https://github.com/vinymrqs/vinymrqs/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
